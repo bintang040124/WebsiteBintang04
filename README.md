@@ -1,7 +1,4 @@
-<html>
-<head>
-	<title>BIODATA DIRI BINTANG</title>
-</head>
+
 <body>
 	<h1 align="center">BIODATA DIRI</h1>
 	<table border="1" cellspacing="0" align="center" cellpadding="10" width="800">
@@ -58,4 +55,3 @@
 
 
 </body>
-</html>
